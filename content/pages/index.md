@@ -27,6 +27,10 @@ sections:
           - ml-0
           - mb-0
           - mr-0
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
