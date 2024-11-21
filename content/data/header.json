@@ -23,7 +23,7 @@
     "variant": "logo-centered-primary-nav-left",
     "colors": "bg-neutral-fg-dark",
     "type": "Header",
-    "title": ">",
+    "title": "",
     "styles": {
         "self": {
             "margin": [
