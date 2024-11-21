@@ -25,7 +25,7 @@
             "url": "/contact",
             "icon": "send",
             "iconPosition": "right",
-            "style": "primary",
+            "style": "secondary",
             "type": "Link",
             "showIcon": true
         }
