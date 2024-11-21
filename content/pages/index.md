@@ -29,7 +29,7 @@ sections:
           - mr-0
     title:
       type: TitleBlock
-      text: VIDEO and WEB
+      text: WE MEAN IT!
       color: text-primary
   - type: FeaturedItemsSection
     title:
