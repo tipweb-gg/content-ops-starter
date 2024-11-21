@@ -7,7 +7,7 @@ sections:
       text: VIDEO & WEB
       color: text-primary
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Visibility!
     text: ''
     actions: []
     media:
