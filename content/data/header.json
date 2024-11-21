@@ -6,7 +6,8 @@
             "self": {
                 "margin": [
                     "mr-0",
-                    "mb-0"
+                    "mb-0",
+                    "mt-0"
                 ],
                 "padding": [
                     "pt-0",
