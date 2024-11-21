@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: 'Creating Impactful Videos and Stunning Websites, All in One Place'
-      color: text-neutral
+      color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
     text: ''
