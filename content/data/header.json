@@ -20,14 +20,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Video Samples",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Blog",
             "altText": "Blog",
             "url": "/blog",
