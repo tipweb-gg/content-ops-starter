@@ -22,5 +22,6 @@
     "secondaryLinks": [],
     "variant": "logo-centered-primary-nav-left",
     "colors": "bg-neutral-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "title": "HOOORAY!"
 }
