@@ -29,7 +29,7 @@ sections:
           - mr-0
     title:
       type: TitleBlock
-      text: HOORAY!
+      text: VIDEO and WEB
       color: text-primary
   - type: FeaturedItemsSection
     title:
