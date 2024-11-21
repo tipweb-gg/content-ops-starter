@@ -3,10 +3,6 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    title:
-      text: VIDEO & WEB
-      color: text-primary
-      type: TitleBlock
     subtitle: Visibility!
     text: ''
     actions: []
