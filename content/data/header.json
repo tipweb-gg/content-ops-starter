@@ -22,7 +22,7 @@
         {
             "label": "Contact",
             "altText": "Contact Page",
-            "url": "/careers",
+            "url": "/contact",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
