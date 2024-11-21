@@ -30,7 +30,7 @@ sections:
     title:
       type: TitleBlock
       text: HOORAY!
-      color: text-dark
+      color: text-primary
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
