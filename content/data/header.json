@@ -18,18 +18,7 @@
         "type": "ImageBlock",
         "url": "/images/Motionire Logo Dark.png"
     },
-    "primaryLinks": [
-        {
-            "label": "Contact",
-            "altText": "Contact Page",
-            "url": "/contact",
-            "icon": "send",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Link",
-            "showIcon": true
-        }
-    ],
+    "primaryLinks": [],
     "secondaryLinks": [],
     "variant": "logo-centered-primary-nav-left",
     "colors": "bg-neutral-fg-dark",
