@@ -23,7 +23,7 @@
             "label": "Contact",
             "altText": "Contact Page",
             "url": "/contact",
-            "icon": "mail",
+            "icon": "send",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
