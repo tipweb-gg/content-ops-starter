@@ -16,7 +16,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: So what brought you here?
+      label: 'Hey there,'
       color: text-primary
       type: Badge
     elementId: ''
