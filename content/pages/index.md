@@ -23,7 +23,10 @@ sections:
           - pb-0
           - pr-0
         margin:
-          - mt-9
+          - mt-20
+          - ml-20
+          - mb-20
+          - mr-20
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
