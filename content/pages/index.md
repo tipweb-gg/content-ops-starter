@@ -16,7 +16,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: motionire.com
+      label: So what brought you here?
       color: text-primary
       type: Badge
     elementId: ''
