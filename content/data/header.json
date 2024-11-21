@@ -21,7 +21,7 @@
     "primaryLinks": [
         {
             "label": "Contact",
-            "altText": "Careers page",
+            "altText": "Contact Page",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
