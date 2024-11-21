@@ -29,7 +29,7 @@ sections:
           - mr-0
     title:
       type: TitleBlock
-      text: This Is A Big HeadlineV
+      text: HOORAY!
       color: text-dark
   - type: FeaturedItemsSection
     title:
