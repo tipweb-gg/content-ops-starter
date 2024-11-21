@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Creating Impactful Videos and Stunning Websites, All in One Place'
+      text: VIDEO & WEB
       color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
