@@ -24,7 +24,7 @@
             "altText": "Contact Page",
             "url": "/contact",
             "icon": "send",
-            "iconPosition": "right",
+            "iconPosition": "left",
             "style": "secondary",
             "type": "Link",
             "showIcon": true
